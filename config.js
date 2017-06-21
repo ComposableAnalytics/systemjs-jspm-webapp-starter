@@ -379,9 +379,7 @@ System.config({
   map: {
     "angular": "github:angular/bower-angular@1.6.4",
     "angular-ui-router": "github:angular-ui/angular-ui-router-bower@1.0.4",
-    "bootstrap": "github:twbs/bootstrap-sass@3.3.6",
     "core-js": "npm:core-js@2.4.1",
-    "font-awesome": "npm:font-awesome@4.7.0",
     "fs": "github:jspm/nodelibs-fs@0.1.2",
     "jquery": "npm:jquery@2.2.4",
     "ng-forward": "npm:ng-forward@0.0.1-alpha.12",
@@ -666,9 +664,6 @@ System.config({
       "buffer": "github:jspm/nodelibs-buffer@0.1.1",
       "create-hash": "npm:create-hash@1.1.3",
       "crypto": "github:jspm/nodelibs-crypto@0.1.0"
-    },
-    "npm:font-awesome@4.7.0": {
-      "css": "github:systemjs/plugin-css@0.1.35"
     },
     "npm:fs-extra@0.30.0": {
       "buffer": "github:jspm/nodelibs-buffer@0.1.1",

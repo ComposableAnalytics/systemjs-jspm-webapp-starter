@@ -3,9 +3,7 @@
     "dependencies": {
       "angular": "github:angular/bower-angular@^1.6.4",
       "angular-ui-router": "github:angular-ui/angular-ui-router-bower@^1.0.4",
-      "bootstrap": "github:twbs/bootstrap-sass@3.3.6",
       "core-js": "npm:core-js@^2.4.1",
-      "font-awesome": "npm:font-awesome@^4.7.0",
       "jquery": "npm:jquery@2.2.4",
       "ng-forward": "npm:ng-forward@^0.0.1-alpha.12",
       "ng-template": "npm:plugin-ng-template@^0.1.1",
